@@ -1,0 +1,12 @@
+.env
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+backend/data/
+node_modules/
+dist/
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo
